@@ -16,4 +16,4 @@ The analysis results are available in the cage1 and cage2 folders. The files in 
 The raw `.xyz` trajectory files are large (several hundreds of MB). Part of the trajectory files (6500 AIMD steps, 650 frames, the trajectory was dumped for every 5 ps.) have been uploaded into the cage1 and cage2 folders. The raw trajectory files can be provided in reasonable request to reproduce our results.
 
 ## Contacts
-Please contact [Lei Lei](mailto:Lei.Lei@nottingham.ac.uk) or [Sanliang Ling](mailto:sanliang.ling@nottingham.ac.uk) for further computation details of the simulation results.
+Please contact [Lei Lei](mailto:Lei.Lei@nottingham.ac.uk) or [Sanliang Ling](mailto:sanliang.ling@nottingham.ac.uk) for further computational details of the simulation results.
