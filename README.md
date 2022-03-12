@@ -2,7 +2,7 @@
 > Data analysis methods and part of the raw data for the paper "Supramolecular Proton Conductors Self-Assembled by Organic Cages".
 
 ## Methods
-The analysis methods are described in the `md_ana.ipynb` file.
+The analysis methods are described in the `[md_ana.ipynb](https://github.com/Lei-Lei-alpha/Molecular-Dynamics-Molecular-Cages/blob/main/md_ana.ipynb)` file.
 
 ## Results
 The analysis results are available in the cage1 and cage2 folders.
