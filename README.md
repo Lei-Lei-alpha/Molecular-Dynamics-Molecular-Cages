@@ -12,13 +12,13 @@ The analysis results are available in the cage1 and cage2 folders. The files in 
 - `MSD_D_H2O_cage*.xlsx` the mean square displacements and diffusion coefficients of water molecules.
 - `hbonds_mic.json` the hydrogen bond analysis results, including the number of H-bonds in each frame, the donor, acceptor, the donor-acceptor separation, the D-H&middot;&middot;&middot;A angle. For cage-2, only 3000 frames are included due to file size limit.
 - Figures:
-  - Average MSD and diffusion coefficient with error bounds.
+  - `cage*_500K_ave.jpg` Average MSD and diffusion coefficient with error bounds.
   <img src="./cage1/cage1_500K_ave.jpg" alt="MSD/D-t" title="MSD and instant diffusion coefficient as a function of time" style="width:450px;"/>
   
-  - Number of Hydrogen bonds per unique hydrogen bonding donor-acceptor pairs with respect to time.
+  - `cage*_nhbonds_500K` Number of Hydrogen bonds per unique hydrogen bonding donor-acceptor pairs with respect to time.
   <img src="./cage1/cage1_nhbonds_500K.jpg" alt="nH-bonds" title="Number of H bonds per unique hydrogen bonding donor-acceptor pairs" style="width:410px;"/>
   
-  - Hydrogen bond lifetime.
+  - `cage*_hbond_lifetime_500K` Hydrogen bond lifetime.
   <img src="./cage1/cage1_hbond_lifetime_500K.jpg" alt="nH-bonds" title="Number of H bonds per unique hydrogen bonding donor-acceptor pairs" style="width:377px;"/>
 
 ## Raw data
