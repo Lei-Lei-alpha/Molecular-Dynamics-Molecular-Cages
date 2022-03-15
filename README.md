@@ -29,4 +29,4 @@ The trajectory was dumped for every 5 fs (every 10 AIMD steps), and the raw `.xy
 Please ensure you cite our paper if you used our methods in your research. Our paper was just accepted by JACS Au, we will put the citation information here once it is available.
 
 ## Contacts
-Please contact [Lei Lei](mailto:Lei.Lei@nottingham.ac.uk) or [Dr Sanliang Ling](mailto:sanliang.ling@nottingham.ac.uk) for further computational details of the simulation results. Any other correspondence regarding this paper should be sent to [Dr Shaodong Zhang](mailto:sdzhang@sjtu.edu.cn).
+Please contact [Lei Lei](mailto:Lei.Lei@nottingham.ac.uk) or [Dr Sanliang Ling](mailto:sanliang.ling@nottingham.ac.uk) for further computational details of the simulation results. Any other correspondence regarding the paper should be sent to [Dr Shaodong Zhang](mailto:sdzhang@sjtu.edu.cn).
