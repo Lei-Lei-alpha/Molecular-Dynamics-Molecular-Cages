@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: post
-title:  "Molecular dynamics simulation for molecular cages."
+title:  "Data analysis methods for ab iniiton molecular dynamics simulations"
 date:   2022-03-25 21:20:33 +0000
 ---
 # Molecular dynamics simulation for molecular cages
