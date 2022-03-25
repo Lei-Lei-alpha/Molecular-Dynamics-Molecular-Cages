@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Molecular-Dynamics-Molecular-Cages
+email: Lei.Lei@nottingham.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -34,6 +34,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+
+include:
+  - ./README.md
+  - ./md_ana.ipynb
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
