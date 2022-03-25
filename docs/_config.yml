@@ -28,7 +28,7 @@ twitter_username: leilei78814998
 github_username:  Lei-Lei-alpha
 
 # Build settings
-remote_theme: pages-themes/cayman@v0.2.0
+# remote_theme: pages-themes/cayman@v0.2.0
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
