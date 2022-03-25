@@ -18,14 +18,14 @@ The analysis results are available in the [cage1](https://github.com/Lei-Lei-alp
 - `hbonds_mic.json` the hydrogen bond analysis results, including the number of H-bonds in each frame, the donor, acceptor, the donor-acceptor separation, the D-H&middot;&middot;&middot;A angle. For cage-2, only 3000 frames are included due to file size limit.
 - Figures:
   - `cage*_500K_ave.jpg` Average MSD and diffusion coefficient with error bounds.
-  <img src="https://github.com/Lei-Lei-alpha/Molecular-Dynamics-Molecular-Cages/blob/main/cage1/cage1_500K_ave.jpg" alt="MSD/D-t" title="MSD and instant diffusion coefficient as a function of time" style="width:450px;"/>
+  <img src="./output_48_0.png" alt="MSD/D-t" title="MSD and instant diffusion coefficient as a function of time" style="width:450px;"/>
   
   - `cage*_nhbonds_500K.jpg` Number of Hydrogen bonds per unique hydrogen bonding donor-acceptor pairs with respect to time.
-  <img src="./cage1/cage1_nhbonds_500K.jpg" alt="nH-bonds" title="Number of H bonds per unique hydrogen bonding donor-acceptor pairs" style="width:410px;"/>
+  <img src="./output_80_0.png" alt="nH-bonds" title="Number of H bonds per unique hydrogen bonding donor-acceptor pairs" style="width:410px;"/>
   
   - `cage*_hbond_lifetime_500K.jpg` Hydrogen bond lifetime.
   
-  <img src="./cage1/cage1_hbond_lifetime_500K.jpg" alt="nH-bonds" title="Number of H bonds per unique hydrogen bonding donor-acceptor pairs" style="width:377px;"/>
+  <img src="./output_87_0.png" alt="nH-bonds" title="Number of H bonds per unique hydrogen bonding donor-acceptor pairs" style="width:377px;"/>
 
 ## Raw data
 The raw `.xyz` trajectory files were dumped for every 5 fs (every 10 AIMD steps), and are large (several hundreds of MB). Part of the raw trajectory data (650 frames obtained by evenly extracting one frame per every 15 frames from the raw data, the time interval between two consecutive frames is 75 fs) have been uploaded to the [cage1](https://github.com/Lei-Lei-alpha/Molecular-Dynamics-Molecular-Cages/tree/main/cage1) and [cage2](https://github.com/Lei-Lei-alpha/Molecular-Dynamics-Molecular-Cages/tree/main/cage2) folders. For our analysis, all frames (over 11,000 frames, > 55,000 fs or 55 ps) in the large raw trajectory files were used. The raw trajectory files can be provided in reasonable request to reproduce our results.
@@ -36,3 +36,10 @@ Please ensure you cite our paper if you used our methods in your research.
 
 ## Contacts
 Please contact [Lei Lei](mailto:Lei.Lei@nottingham.ac.uk) or [Dr Sanliang Ling](mailto:sanliang.ling@nottingham.ac.uk) for further computational details of the simulation results. Any other correspondence regarding the paper should be sent to [Dr Shaodong Zhang](mailto:sdzhang@sjtu.edu.cn).
+
+|||
+|:--:|:--:|
+|[Back to home][Back to home]|[Continue to detailed methods][Detailed methods]|
+
+[Back to home]: https://lei-lei-alpha.github.io/Molecular-Dynamics-Molecular-Cages
+[Detailed methods]
