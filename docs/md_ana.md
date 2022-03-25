@@ -6201,9 +6201,7 @@ plt.show()
 ![png](output_87_0.png)
     
 
-|||
-|:--:|:--:|
-|[Back to home][Back to home]|[Go to quick start][Quick start]|
+
+[Back to home][Back to home]
 
 [Back to home]: https://lei-lei-alpha.github.io/Molecular-Dynamics-Molecular-Cages
-[Quick start]: https://lei-lei-alpha.github.io/Molecular-Dynamics-Molecular-Cages/Quickstart
