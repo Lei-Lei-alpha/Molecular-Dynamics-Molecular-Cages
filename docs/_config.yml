@@ -1,3 +1,5 @@
+
+
 title: Molecular-Dynamics-Molecular-Cages
 email: Lei.Lei@nottingham.ac.uk
 name: "Lei Lei"
@@ -8,8 +10,19 @@ url: "https://lei-lei-alpha.github.io/Molecular-Dynamics-Molecular-Cages" # the 
 twitter_username: leilei78814998
 github_username:  Lei-Lei-alpha
 
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+source: "https://github.com/Lei-Lei-alpha/Molecular-Dynamics-Molecular-Cages/edit/master/docs"
+
 # Build settings
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 plugins:
   - jekyll-feed
   - jekyll-include-cache
