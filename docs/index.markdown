@@ -1,5 +1,4 @@
 ---
-layout: default
 title:  "Data analysis methods for ab initio molecular dynamics simulations"
 date:   2022-03-25 21:20:33 +0000
 ---
