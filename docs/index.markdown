@@ -1,6 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 title:  "Data analysis methods for ab initio molecular dynamics simulations"
 date:   2022-03-25 21:20:33 +0000
