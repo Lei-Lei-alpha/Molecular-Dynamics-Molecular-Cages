@@ -9,7 +9,7 @@ date:   2022-03-25 21:20:33 +0000
 The current code implemented basic analysis on diffusion coefficient calculation and hydrogen bond analysis.
 
 ## Methods
-The analysis methods are described in the [md_ana.ipynb](https://github.com/Lei-Lei-alpha/Molecular-Dynamics-Molecular-Cages/blob/main/md_ana.ipynb) file.
+The analysis methods are described in the [md_ana.ipynb](https://github.com/Lei-Lei-alpha/Molecular-Dynamics-Molecular-Cages/blob/main/md_ana.ipynb) file. You can also view the contents on web page: [Detailed methods](https://lei-lei-alpha.github.io/Molecular-Dynamics-Molecular-Cages/md_ana).
 
 ## Results
 The analysis results are available in the [cage1](https://github.com/Lei-Lei-alpha/Molecular-Dynamics-Molecular-Cages/tree/main/cage1) and [cage2](https://github.com/Lei-Lei-alpha/Molecular-Dynamics-Molecular-Cages/tree/main/cage2) folders. The files in the above folders are:
