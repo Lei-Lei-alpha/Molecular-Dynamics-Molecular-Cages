@@ -23,15 +23,16 @@ email: Lei.Lei@nottingham.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   AIMD data analysis methods and part of the raw data for the paper "Supramolecular Proton Conductors Self-Assembled by Organic Cages"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lei-lei-alpha.github.io/Molecular-Dynamics-Molecular-Cages" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: leilei78814998
 github_username:  Lei-Lei-alpha
 
 # Build settings
-# remote_theme: pages-themes/cayman@v0.2.0
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+# theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
