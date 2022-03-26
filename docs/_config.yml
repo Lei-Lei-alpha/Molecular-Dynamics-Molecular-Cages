@@ -20,6 +20,7 @@
 
 title: Molecular-Dynamics-Molecular-Cages
 email: Lei.Lei@nottingham.ac.uk
+name: "Lei Lei"
 description: >- # this means to ignore newlines until "baseurl:"
   AIMD data analysis methods and part of the raw data for the paper "Supramolecular Proton Conductors Self-Assembled by Organic Cages"
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -53,3 +54,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
