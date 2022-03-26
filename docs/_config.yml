@@ -24,4 +24,5 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+remote_theme: jekyll/minima
