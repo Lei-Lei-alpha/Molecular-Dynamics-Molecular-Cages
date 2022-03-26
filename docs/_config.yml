@@ -11,6 +11,7 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+use_math: true
 
 # Markdown Processing
 kramdown:
