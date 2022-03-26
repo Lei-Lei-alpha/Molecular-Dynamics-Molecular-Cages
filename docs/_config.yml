@@ -25,6 +25,6 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 # theme: jekyll-theme-cayman
-remote_theme: jekyll/minima
+# remote_theme: jekyll/minima
 
 theme: jekyll-theme-minimal
