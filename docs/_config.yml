@@ -13,7 +13,6 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
 header_feature_image: "./cage1.png"
 header_feature_image_responsive: true
 
@@ -29,8 +28,7 @@ kramdown:
   enable_coderay: false
   math_engine: mathjax
 
-
-katex: true
+# katex: true
 
 plugins:
   - jekyll-feed
