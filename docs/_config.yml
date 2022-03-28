@@ -12,6 +12,10 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+
+header_feature_image: ./cage1.png
+header_feature_image_responsive: true
+
 # Markdown Processing
 kramdown:
   input: GFM
@@ -24,26 +28,7 @@ kramdown:
   enable_coderay: false
   math_engine: mathjax
 
-# Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: 
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+
+katex: true
 
 theme: jekyll-theme-cayman
