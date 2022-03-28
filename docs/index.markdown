@@ -22,7 +22,7 @@ The analysis results are available in the [cage1](https://github.com/Lei-Lei-alp
   - `cage*_500K_ave.jpg` Average MSD and diffusion coefficient with error bounds.
 
   <center>
-  <img src="./output_48_0.png" alt="MSD/D-t" title="MSD and instant diffusion coefficient as a function of time" style="width:450px; "/>
+  <img src="./output_48_0.png" alt="MSD/D-t" title="MSD and instant diffusion coefficient as a function of time" style="width:480px; "/>
   </center>
 
   - `cage*_nhbonds_500K.jpg` Number of Hydrogen bonds per unique hydrogen bonding donor-acceptor pairs with respect to time.
@@ -34,7 +34,7 @@ The analysis results are available in the [cage1](https://github.com/Lei-Lei-alp
   - `cage*_hbond_lifetime_500K.jpg` Hydrogen bond lifetime.
   
   <center>
-  <img src="./output_87_0.png" alt="nH-bonds" title="Number of H bonds per unique hydrogen bonding donor-acceptor pairs" style="width:377px;"/>
+  <img src="./output_87_0.png" alt="nH-bonds" title="Number of H bonds per unique hydrogen bonding donor-acceptor pairs" style="width:400px;"/>
   </center>
 
 ## Raw data
