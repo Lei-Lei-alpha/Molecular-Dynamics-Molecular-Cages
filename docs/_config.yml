@@ -1,5 +1,6 @@
 title: "Data analysis methods for ab initio molecular dynamics simulations"
 name: "Lei Lei"
+email: Lei.Lei@nottingham.ac.uk
 
 url: "https://lei-lei-alpha.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "/Molecular-Dynamics-Molecular-Cages" # the subpath of your site, e.g. "/blog"
@@ -30,5 +31,8 @@ kramdown:
 
 
 katex: true
+
+plugins:
+  - jekyll-feed
 
 theme: jekyll-theme-cayman
