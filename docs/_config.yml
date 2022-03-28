@@ -14,7 +14,7 @@ excerpt_separator: "\n\n"
 incremental: false
 
 
-header_feature_image: ./cage1.png
+header_feature_image: "./cage1.png"
 header_feature_image_responsive: true
 
 # Markdown Processing
