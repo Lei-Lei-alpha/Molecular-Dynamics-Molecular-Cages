@@ -5,6 +5,17 @@ date:   2022-03-25 21:20:33 +0000
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
+<script>
+    MathJax = {
+        tex: {
+            inlineMath: [['$', '$'], ['\\(', '\\)']]
+        },
+        svg: {
+            fontCache: 'global'
+        }
+    };
+</script>
+
 # Molecular Dynamics Data Processing
 
 Lei Lei, University of Nottingham
