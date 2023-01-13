@@ -32,4 +32,4 @@ Our paper was published on JACS Au: [Zhenyu Yang, Ningjin Zhang, Lei Lei, Chunya
 Please ensure you cite our paper if you used our methods in your research.
 
 ## Contacts
-Please contact [Lei Lei](mailto:Lei.Lei@nottingham.ac.uk) or [Dr Sanliang Ling](mailto:sanliang.ling@nottingham.ac.uk) for further computational details of the simulation results. Any other correspondence regarding the paper should be sent to [Dr Shaodong Zhang](mailto:sdzhang@sjtu.edu.cn).
+Please contact [Lei Lei](mailto:Lei.Lei@durham.ac.uk) or [Dr Sanliang Ling](mailto:sanliang.ling@nottingham.ac.uk) for further computational details of the simulation results. Any other correspondence regarding the paper should be sent to [Dr Shaodong Zhang](mailto:sdzhang@sjtu.edu.cn).
